@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/space-x-app/static/css/main.3f9cc074.css",
+    "main.js": "/space-x-app/static/js/main.3e5c05c2.js",
+    "static/js/787.004ae3f7.chunk.js": "/space-x-app/static/js/787.004ae3f7.chunk.js",
+    "index.html": "/space-x-app/index.html",
+    "main.3f9cc074.css.map": "/space-x-app/static/css/main.3f9cc074.css.map",
+    "main.3e5c05c2.js.map": "/space-x-app/static/js/main.3e5c05c2.js.map",
+    "787.004ae3f7.chunk.js.map": "/space-x-app/static/js/787.004ae3f7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3f9cc074.css",
+    "static/js/main.3e5c05c2.js"
+  ]
+}
